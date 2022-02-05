@@ -1,0 +1,64 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 1em;
+    margin: 0.3em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.estiloDoResultado{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size:3.5em;
+}
+
+
+
+.CorDeFundoCinzaClaro{
+    background-color: #505055;
+    color: white;
+}
+
+.CorDeFundoCinzaEscuro{
+    background-color: #16191F;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.corDeFundoNumeros{
+    background-color: #C4C4C4;
+    color: white;
+}
+.corDeFundoNumerosAzul{
+    background-color: #647FDF;
+    color: white;
+}
+
+.estiloNumeros {
+  color: white;
+  font-size: 48;
+}
+
+.fundoEscuro {
+  color: #16191f;
+  font-size: 48;
+}
+
+.letraBranco {
+    color: "#FFFFFF";
+    font-size: 48;
+}
+
+.letraVermelha {
+    color: #DF6464
+}
+.letraAzul {
+    color: #647FDF
+}
